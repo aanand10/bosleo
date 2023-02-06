@@ -25,7 +25,7 @@ const HeadingBox = (props) => {
         >
           <img
             className="w-[1.1rem]"
-            src="../../public/Images/arrowTranding.svg"
+            src="/Images/arrowTranding.svg"
             alt="tranding arraow"
           />
           <p className="text-xs text-trending">Trending</p>

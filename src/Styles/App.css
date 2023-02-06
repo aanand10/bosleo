@@ -36,6 +36,8 @@ nav {
   max-width: 1200px;
 }
 
+/* table width  */
+
 .tableForSS {
   width: 500px !important;
   overflow-x: scroll;
