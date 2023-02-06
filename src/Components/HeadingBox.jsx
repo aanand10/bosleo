@@ -33,7 +33,7 @@ const HeadingBox = (props) => {
         <div
           className={`p-4 border  border-tableBoarder rounded-lg flex gap-5 ${props.search} `}
         >
-          <img src="../../public/Images/searchIco.svg" alt="" />
+          <img src="/Images/searchIco.svg" alt="" />
           <input type="text" placeholder="Search" />
         </div>
       </div>

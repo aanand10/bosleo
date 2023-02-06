@@ -85,7 +85,7 @@ const Navbar = () => {
             </svg>
             <div className=" h-6 border  rounded-full bg-gray-800">
               <img
-                src="../../public/Images/profile.jpg"
+                src="/Images/profile.jpg"
                 alt=""
                 className="h-6 rounded-full"
               />
