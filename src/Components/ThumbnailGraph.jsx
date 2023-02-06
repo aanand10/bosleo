@@ -5,7 +5,7 @@ import HeadingBox from "./HeadingBox";
 const ThumbnailGraph = () => {
   return (
     <>
-      <div className=" mx-w h-[22.75rem]   mx-auto my-8 flex gap-4 ">
+      <div className=" max-1200 h-[22.75rem]   mx-auto my-8 flex gap-4 ">
         <img
           src={movieThabnail}
           alt=""
@@ -19,7 +19,7 @@ const ThumbnailGraph = () => {
             search="hidden"
           ></HeadingBox>
           <div className="graph">
-            <img src="../../public/Images/Graph.jpeg" alt="" />
+            <img src="Images/Graph.jpeg" alt="" />
           </div>
         </div>
       </div>

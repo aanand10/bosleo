@@ -2,8 +2,8 @@ import Category from "./Category";
 const MovieTitle = () => {
   return (
     <>
-      <div className="mx-w flex  justify-between mx-auto py-4  ">
-        <h1 className=" text-black self-center text-xl font-semibold whitespace-nowrap  font-bold text-2xl fontFamily">
+      <div className="max-1200 flex  justify-between mx-auto py-4  ">
+        <h1 className=" text-black self-center whitespace-nowrap  font-bold text-2xl fontFamily">
           Avengers Black Widow
         </h1>
         <button className="flex items-center  justify-center border py-1 rounded-lg text-black gap-2 px-2">

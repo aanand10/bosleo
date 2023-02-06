@@ -3,7 +3,7 @@ import Category from "./Category";
 const MovieProperties = () => {
   return (
     <>
-      <div className="mx-w mx-auto my-8">
+      <div className="max-1200 mx-auto my-8">
         <HeadingBox
           title="Movie Properties"
           subTitle="A list of details for this movie"

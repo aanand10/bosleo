@@ -5,7 +5,7 @@ import AllMoviesTable from "./AllMoviesTable";
 const AllMovies = () => {
   return (
     <>
-      <div className="allMovies mx-w mx-auto my-8  w-[1200px]">
+      <div className="allMovies max-1200 mx-auto my-8  w-[1200px]">
         <div
           className="allMoviesNav text-base flex gap-14 border-b my-8
         "
