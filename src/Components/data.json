@@ -1,7 +1,7 @@
 [
   {
     "name": "Avengers Black Widow",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "Action",
     "category2": "blockbuster",
     "abtTr": "",
@@ -11,7 +11,7 @@
   },
   {
     "name": "After Hours",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "Horror",
     "category2": "CRIME",
     "abtTr": "opacity-0",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Ant-man",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "Horror",
     "category2": "CRIME",
     "abtTr": "opacity-0",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Captain Marvel",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "Action",
     "category2": "fantasy",
     "abtTr": "opacity-0",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Grimsby",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "Comedy",
     "category2": "CRIME",
     "abtTr": "",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Moonlight",
-    "link": "../../public/Images/MovieLogo.jpeg",
+    "link": "/Images/MovieLogo.jpeg",
     "category1": "True Story",
     "category2": "CRIME",
     "abtTr": "",
