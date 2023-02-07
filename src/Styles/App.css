@@ -39,8 +39,8 @@ nav {
 /* table width  */
 
 .tableForSS {
-  width: 500px !important;
-  overflow-x: scroll;
+  /* width: 500px !important;
+  overflow-x: scroll; */
 }
 
 .gradientBorder {
@@ -54,4 +54,40 @@ nav {
     #fed2ce 107.29%
   );
   border-radius: 8px;
+}
+
+.tableRow:last-child .CategoryTag:nth-child(2) {
+  display: none;
+}
+.tableRow:last-child .moreText {
+  display: block;
+}
+
+/* footer  */
+.footerSpan {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  background: linear-gradient(
+    273.64deg,
+    #35c3f3 11.27%,
+    #8b9fe8 36.72%,
+    #e681d8 61.72%,
+    #ffa9a4 82.79%,
+    #fed2ce 107.29%,
+    #fed2ce 107.29%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.footerText {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #6a6a6a;
 }

@@ -12,11 +12,19 @@ const TableRow = (props) => {
             src={`${props.link}`}
             alt=""
           />
-          <p className="font-medium text-sm text-black">{props.name}</p>
+          <p className=" font-medium text-sm text-black">{props.name}</p>
         </div>
         <div className="gap-4 flex w-[20%]">
           <Category text={`${props.category1}`}></Category>
-          <Category text={`${props.category2}`}></Category>
+          <Category
+            text={`${props.category2}`}
+            className={`${props.lastCat} `}
+          ></Category>
+          <p
+            className={`${props.more} moreText uppercase hidden  my-auto text-[10px] text-center text-catText tracking-wider`}
+          >
+            +2 more
+          </p>
         </div>
         <div className={` w-[13%] ${props.abtTr}`}>
           <Tranding></Tranding>

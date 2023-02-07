@@ -11,7 +11,7 @@ const Insights = () => {
           search="hidden"
           trending="hidden"
         ></HeadingBox>
-        <div className="tableNew mx-w border border-tableBoarder rounded-t-lg mt-8 ">
+        <div className="tableNew mx-w border border-tableBoarder rounded-t-lg mt-8 tableForSS">
           <div className="tableHead p-4 px-7 flex justify-around rounded-t-lg bg-tableHeadBg ">
             <p className="font-medium text-sm text-black w-[20%]">
               People Reached

@@ -6,6 +6,7 @@ import ThumbnailGraph from "./Components/ThumbnailGraph";
 import MovieProperties from "./Components/MovieProperties";
 import Insights from "./Components/Insights";
 import AllMovies from "./Components/AllMovies";
+import Footer from "./Components/Footer";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -18,6 +19,7 @@ function App() {
       <MovieProperties></MovieProperties>
       <Insights></Insights>
       <AllMovies></AllMovies>
+      <Footer></Footer>
     </div>
   );
 }
