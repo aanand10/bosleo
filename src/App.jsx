@@ -7,6 +7,7 @@ import MovieProperties from "./Components/MovieProperties";
 import Insights from "./Components/Insights";
 import AllMovies from "./Components/AllMovies";
 import Footer from "./Components/Footer";
+import Trial from "./Components/Trial";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -20,6 +21,7 @@ function App() {
       <Insights></Insights>
       <AllMovies></AllMovies>
       <Footer></Footer>
+      {/* <Trial></Trial> */}
     </div>
   );
 }
